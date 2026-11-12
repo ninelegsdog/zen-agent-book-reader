@@ -1,6 +1,6 @@
 # Дзен и агентная архитектура
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Книга о программных системах, которые собираются вместе с LLM-агентами: где живёт
 контекст, чем он управляется и как проверить, что получилось.
